@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello!  I'm Max Petretta</h1>
----
+<h1 align="center">👋 Hello! I'm Max Petretta</h1>
 <p align="center">
     <a href="https://maxpetretta.com/">Blog</a> |  
     <a href="https://twitter.com/maxpetretta">Twitter</a> |  
