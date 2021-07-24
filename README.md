@@ -14,7 +14,7 @@ I'm a software engineer with ~5 years of professional work experience.  During t
 
 ## Contact
 Want to get in touch?
-* Email: max.petretta@gmail.com
+* Email: hello@maxpetretta.com
 * Twitter: [@maxpetretta](https://twitter.com/maxpetretta)
 * LinkedIn: [Connect with me](https://www.linkedin.com/in/maxpetretta/)
 
