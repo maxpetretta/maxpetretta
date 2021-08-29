@@ -1,16 +1,18 @@
-<h1 align="center">👋 Hello! I'm Max Petretta</h1>
+<h1 align="center">👋 Hey! I'm Max Petretta</h1>
 <p align="center">
-    <a href="https://maxpetretta.com/">Blog</a> |  
+    <a href="https://maxpetretta.com/">Website</a> |  
     <a href="https://twitter.com/maxpetretta">Twitter</a> |  
     <a href="https://www.linkedin.com/in/maxpetretta/">LinkedIn</a>
 </p>
 
 ## About
-I'm a software engineer with ~5 years of professional work experience.  During that time, I've worked on a variety of projects in the web, mobile, and cloud fields.  Currently, I work as a software engineer at GE Healthcare.  My focus is in the cloud space, working to modernize our applications using automation & infrastructure-as-code.
+I'm a software engineer with over 4 years of professional work experience.  I'm passionate about building intuitive applications, reliable services, and systems that scale.
+
+Currently, I'm building the future of cloud infrastructure at GE Healthcare by delivering reliable services, advanced automation, and infrastructure-as-code.
 
 ## Skills
 * Languages: Python, Java, Swift, Terraform, HTML, CSS, JavaScript, SQL
-* Technologies: AWS, Azure, Docker, React, Node.js, Git, Jenkins, Azure DevOps, Linux
+* Technologies: AWS, Azure, DevOps, Docker, React, Next.js, Node.js, Tailwind, Linux, Git 
 
 ## Contact
 Want to get in touch?
@@ -18,4 +20,4 @@ Want to get in touch?
 * Twitter: [@maxpetretta](https://twitter.com/maxpetretta)
 * LinkedIn: [Connect with me](https://www.linkedin.com/in/maxpetretta/)
 
-Have an opportunity to share? [See my resume here!](https://github.com/maxpetretta/resume)
+Have an opportunity to share? [See my resume here!](https://raw.githubusercontent.com/maxpetretta/resume/master/Maximilian%20Petretta%20Resume.pdf)
