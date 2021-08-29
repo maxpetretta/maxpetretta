@@ -8,7 +8,7 @@
 ## About
 I'm a software engineer with over 4 years of professional work experience.  I'm passionate about building intuitive applications, reliable services, and systems that scale.
 
-Currently, I'm building the future of cloud infrastructure at GE Healthcare by delivering reliable services, advanced automation, and infrastructure-as-code.
+Currently, I'm building the future of cloud infrastructure at GE Healthcare.  My role is to modernize our applications and processes by delivering robust services, advanced automation, and infrastructure-as-code.
 
 ## Skills
 * Languages: Python, Java, Swift, Terraform, HTML, CSS, JavaScript, SQL
