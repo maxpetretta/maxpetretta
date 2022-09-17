@@ -13,7 +13,7 @@ Currently, I'm building the future of cloud infrastructure at GE Healthcare.  My
 My interests include full stack web development (React), blockchain smart contracts (Solidity), and cloud computing.
 
 ## Skills
-* Languages: Solidity, Python, Terraform, Java, HTML, CSS, JavaScript, SQL
+* Languages: TypeScript, Solidity, Python, Terraform, Java, HTML, CSS, JavaScript, SQL
 * Technologies: Ethereum, Hardhat, AWS, Azure, React, Next.js, Node.js, Tailwind, Docker, DevOps, Linux, git
 
 ## Contact
