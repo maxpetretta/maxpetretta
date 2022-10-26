@@ -10,11 +10,11 @@ I'm a software engineer with over 4 years of professional work experience.  I'm 
 
 Currently, I'm building the future of cloud infrastructure at GE Healthcare.  My role is to modernize our applications and processes by delivering robust services, advanced automation, and infrastructure-as-code.
 
-My interests include full stack web development (React), blockchain smart contracts (Solidity), and cloud computing.
+My interests include: full stack development, blockchain, smart contracts, DeFi, web3, & cloud computing.
 
 ## Skills
 * Languages: TypeScript, Solidity, Python, Terraform, Java, HTML, CSS, JavaScript, GraphQL, SQL
-* Technologies: Ethereum, Hardhat, AWS, Azure, React, Next.js, Node.js, Apollo, Tailwind, Docker, DevOps, Linux, git
+* Technologies: Ethereum, Hardhat, React, Next.js, Node.js, AWS, Azure, Apollo, Tailwind, Docker, DevOps, Linux, git
 
 ## Contact
 Want to get in touch?
