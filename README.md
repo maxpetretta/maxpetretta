@@ -2,15 +2,15 @@
 <p align="center">
   <samp>
     <a href="mailto:m@maxp.co">email</a>
-    &middot;
+    &bull;
     <a href="https://maxp.co">website</a>
-    &middot;
+    &bull;
     <a href="https://x.com/maxpetretta">twitter</a>
-    &middot;
+    &bull;
     <a href="https://warpcast.com/maxp.eth">farcaster</a>
-    &middot;
+    &bull;
     <a href="https://linkedin.com/in/maxpetretta">linkedin</a>
-    &middot;
+    &bull;
     <a href="https://raw.githubusercontent.com/maxpetretta/resume/master/Maximilian%20Petretta%20Resume.pdf">resume</a>
   </samp>
 </p>
