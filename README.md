@@ -8,5 +8,7 @@
     <a href="https://x.com/maxpetretta">twitter</a>
     &bull;
     <a href="https://substack.maxpetretta.com">substack</a>
+    &bull;
+    <a href="https://raw.githubusercontent.com/maxpetretta/resume/master/Maximilian%20Petretta%20Resume.pdf">resume</a>
   </samp>
 </p>
