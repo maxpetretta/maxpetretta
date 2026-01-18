@@ -7,10 +7,6 @@
     &bull;
     <a href="https://x.com/maxpetretta">twitter</a>
     &bull;
-    <a href="https://farcaster.xyz/maxp.eth">farcaster</a>
-    &bull;
-    <a href="https://linkedin.com/in/maxpetretta">linkedin</a>
-    &bull;
-    <a href="https://raw.githubusercontent.com/maxpetretta/resume/master/Maximilian%20Petretta%20Resume.pdf">resume</a>
+    <a href="https://substack.maxpetretta.com">substack</a>
   </samp>
 </p>
